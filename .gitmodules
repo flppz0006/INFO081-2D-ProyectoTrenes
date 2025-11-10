@@ -4,3 +4,6 @@
 [submodule "path/del/submodulo"]
 	path = path/del/submodulo
 	url = https://github.com/Santasy/INFO081-S2-DesCom02
+[submodule "submodulo"]
+	path = submodulo
+	url = https://github.com/Santasy/INFO081-S2-DesCom02
