@@ -1,5 +1,6 @@
 # INFO081-2D-ProyectoTrenes
  Proyecto de Simulación de Trenes 
+ 
  Lista de integrantes: Felipe Opazo, José Licán, Mauricio Jara y Luciano Oñate.
  
 
