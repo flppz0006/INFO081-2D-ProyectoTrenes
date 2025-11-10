@@ -7,3 +7,6 @@
 [submodule "submodulo"]
 	path = submodulo
 	url = https://github.com/Santasy/INFO081-S2-DesCom02
+[submodule "ppdc_event_manager"]
+	path = ppdc_event_manager
+	url = https://github.com/Santasy/INFO081-S2-DesCom02
