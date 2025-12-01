@@ -2,7 +2,8 @@ import tkinter as tk
 from tkinter import font
 import time
 from logica.reloj import SimulationClock
-from config import WINDOW_TITLE, WINDOW_SIZE, BG_COLOR
+from config.settings import TITULO1, WINDOW_SIZE
+from config.colors import BG_COLOR
 from ui.widget.button import crear_boton
 
 
@@ -43,9 +44,9 @@ def main():
         root.destroy()
 
     root = tk.Tk()
-    root.title(WINDOW_TITLE)
+    root.title(TITULO1)
     root.geometry(WINDOW_SIZE)
-    root.configure(bg=BG_COLOR)
+    root.configure(bg="white")
 
 
     titulo_font = font.Font(family="Arial", size=28, weight="bold")
@@ -64,5 +65,4 @@ def main():
 if __name__ == "__main__":
     print("Ejecutando desde Main.")
     main()
-
 
