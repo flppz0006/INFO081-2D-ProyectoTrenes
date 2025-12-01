@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import font
 import time
-from reloj.py import SimulationClock
+from logica.reloj import SimulationClock
 from config import WINDOW_TITLE, WINDOW_SIZE, BG_COLOR
 from ui.widget.button import crear_boton
 
@@ -23,8 +23,8 @@ def main():
         pasos_simulacion += 1
     
         if pasos_simulacion > (60 * 24):
-        running = False
-        print("Simulación de un dia completada.")
+            running = False
+            print("Simulación de un dia completada.")
     
     def iniciar_simulacion():
         root.destroy()
