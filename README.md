@@ -13,7 +13,7 @@ Aquí te explicamos, en 4 simples pasos, cómo descargarlo y hacerlo funcionar e
 
 Sigue estos pasos desde tu terminal o consola:
 
-#Paso 1: "Clonar" (descargar) y luego  ejecutar el proyecto
+#Paso 1: "Clonar" (descargar) y luego  ejecutar el proyecto.
 
 Usa los siguientes comandos en la consola para bajar todos los archivos a tu PC y ejecutar el programa:
 
